@@ -1,0 +1,12 @@
+package com.yan.git;
+
+/**
+ * @author 闫明
+ * @Description:
+ * @date 2021/2/1420:01
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git");
+    }
+}
